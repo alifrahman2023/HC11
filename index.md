@@ -1,2 +1,4 @@
 # HC11
-[my website](https://alifrahman2023.github.io/HC11.github.io/)
+Name of my neighborhood: Kips Bay
+Highlighted map of HC6:
+![HC6 Highlighted Map](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Highlighted Map")
