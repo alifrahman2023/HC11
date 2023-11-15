@@ -1,5 +1,5 @@
-# HC11
-Name of my neighborhood: Kips Bay
+# Kips Bay
+
 ## Highlighted map of HC6
 ![HC6 Highlighted Map](HC6.png)
 ## Basic demographics and statistics (HC2)
