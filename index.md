@@ -10,12 +10,15 @@ When researching the NYC Clean Heat Program we learned about how the program was
 We learned about how NYC's reliance on aging power plants and the use of natural gas contribute to high emissions and air pollutants. Buildings, especially in Manhattan, are identified as the largest source of GHG emissions, with a notable concentration in properties built in the 1950s. Legislation such as Local Law 97 aims to reduce emissions from large buildings, which are responsible for a substantial portion of carbon dioxide output. The text also highlights the energy inefficiency of appliances in Manhattan's densely populated buildings and the strain they place on electricity consumption. Despite these challenges, NYC is implementing measures to reduce emissions, such as the 2026 law banning fossil fuels in most new buildings.
 ## HC7 and HC8 Summary
 In HC7/HC8, I learned some things. First, I learned that out of all our neighborhoods in Manhattan, we found out that Hells Kitchen has the highest Mean Total Gallons. Here is the graph:
+
 ![Mean Total Gallons Graph](HellsKitchen.png)
 
 I also learned that there is no correlation between the number of floors and the total amount of gallons in each building. Here is the graph:
+
 ![Correlation Graph](Correlation.png)
 
 Finally, I learned about the ages of boilers in each building. Most boilers are between 10 to 30 years old. Here is the graph:
+
 ![Boiler Age Graph](BoilerAge.png)
 
 In conclusion, we learned a lot about our neighborhood's buildings and a lot about cleaning and visualizing data to convey certain trends or statistics that are important.
